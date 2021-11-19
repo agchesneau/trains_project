@@ -135,7 +135,7 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2019-04,4,2019,Intercites,toulouse,bayonne,120.0,0.0,27.0,120.0,0.0,77.5,toulouse:bayonne
 2019-04,4,2019,Intercites,bordeaux-st-jean,marseille-st-charles,206.0,1.0,28.0,205.0,0.49,86.3,bordeaux-st-jean:marseille-st-charles
 2019-04,4,2019,Intercites,marseille-st-charles,bordeaux-st-jean,207.0,2.0,30.0,205.0,0.97,85.4,marseille-st-charles:bordeaux-st-jean
-2019-04,4,2019,Intercites,toulouse,paris,81.0,1.0,7.0,80.0,1.23,91.2,toulouse:paris
+2019-04,4,2019,Intercites,toulouse,paris,81.0,1.0,7.0,80.0,1.23,91.3,toulouse:paris
 2019-04,4,2019,Intercites,paris,briancon,27.0,0.0,4.0,27.0,0.0,85.2,paris:briancon
 2019-05,5,2019,Intercites,caen,paris,200.0,2.0,24.0,198.0,1.0,87.9,caen:paris
 2019-05,5,2019,Intercites,clermont-ferrand,paris,231.0,1.0,22.0,230.0,0.43,90.4,clermont-ferrand:paris
@@ -258,7 +258,7 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2018-03,3,2018,Intercites,albi,paris,5.0,1.0,1.0,4.0,20.0,75.0,albi:paris
 2018-03,3,2018,Intercites,paris,latour-de-carol,27.0,6.0,1.0,21.0,22.22,95.2,paris:latour-de-carol
 2018-03,3,2018,Intercites,latour-de-carol,paris,27.0,1.0,2.0,26.0,3.7,92.3,latour-de-carol:paris
-2018-04,4,2018,Intercites,st-quentin,paris,80.0,0.0,11.0,80.0,0.0,86.2,st-quentin:paris
+2018-04,4,2018,Intercites,st-quentin,paris,80.0,0.0,11.0,80.0,0.0,86.3,st-quentin:paris
 2018-04,4,2018,Intercites,caen,paris,134.0,1.0,20.0,133.0,0.75,85.0,caen:paris
 2018-04,4,2018,Intercites,le-havre,paris,206.0,1.0,83.0,205.0,0.49,59.5,le-havre:paris
 2018-04,4,2018,Intercites,paris,le-havre,200.0,0.0,57.0,200.0,0.0,71.5,paris:le-havre
@@ -443,7 +443,7 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2020-03,3,2020,Intercites,paris,latour-de-carol,12.0,2.0,0.0,10.0,16.67,100.0,paris:latour-de-carol
 2020-04,4,2020,Intercites,nantes,bordeaux-st-jean,30.0,0.0,3.0,30.0,0.0,90.0,nantes:bordeaux-st-jean
 2020-05,5,2020,Intercites,lyon,nantes,15.0,1.0,1.0,14.0,6.67,92.9,lyon:nantes
-2020-05,5,2020,Intercites,nantes,lyon,16.0,0.0,3.0,16.0,0.0,81.2,nantes:lyon
+2020-05,5,2020,Intercites,nantes,lyon,16.0,0.0,3.0,16.0,0.0,81.3,nantes:lyon
 2020-05,5,2020,Intercites,paris,toulouse,19.0,0.0,1.0,19.0,0.0,94.7,paris:toulouse
 2020-05,5,2020,Intercites,toulouse,paris,18.0,1.0,6.0,17.0,5.56,64.7,toulouse:paris
 2020-06,6,2020,Intercites,lyon,nantes,36.0,1.0,7.0,35.0,2.78,80.0,lyon:nantes
@@ -933,7 +933,7 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2018-02,2,2018,Intercites,tours,caen,56.0,1.0,5.0,55.0,1.79,90.9,tours:caen
 2018-02,2,2018,Intercites,boulogne,paris,123.0,8.0,19.0,115.0,6.5,83.5,boulogne:paris
 2018-02,2,2018,Intercites,paris,maubeuge/cambrai,148.0,1.0,23.0,147.0,0.68,84.4,paris:maubeuge/cambrai
-2018-02,2,2018,Intercites,paris,cherbourg,163.0,3.0,38.0,160.0,1.84,76.2,paris:cherbourg
+2018-02,2,2018,Intercites,paris,cherbourg,163.0,3.0,38.0,160.0,1.84,76.3,paris:cherbourg
 2018-02,2,2018,Intercites,paris,granville,152.0,2.0,8.0,150.0,1.32,94.7,paris:granville
 2018-02,2,2018,Intercites,bordeaux-st-jean,marseille-st-charles,214.0,10.0,47.0,204.0,4.67,77.0,bordeaux-st-jean:marseille-st-charles
 2018-02,2,2018,Intercites,brive,paris,194.0,18.0,41.0,176.0,9.28,76.7,brive:paris
@@ -1502,7 +1502,6 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2018-03,3,2018,National,nantes,strasbourg,41.0,1.0,4.0,40.0,2.44,90.0,nantes:strasbourg
 2018-03,3,2018,National,douai,paris,212.0,8.0,63.0,204.0,3.77,69.1,douai:paris
 2018-03,3,2018,National,lyon,lille,305.0,11.0,60.0,294.0,3.61,79.6,lyon:lille
-2018-03,3,2018,National,marseille-st-charles,tourcoing,31.0,0.0,30.89532777978993,31.0,0.0,0.3,marseille-st-charles:tourcoing
 2018-03,3,2018,National,rennes,paris,31.0,0.0,1.0,31.0,0.0,96.8,rennes:paris
 2018-03,3,2018,National,tourcoing,bordeaux-st-jean,30.0,0.0,6.0,30.0,0.0,80.0,tourcoing:bordeaux-st-jean
 2018-03,3,2018,National,paris,annecy,196.0,5.0,32.0,191.0,2.55,83.2,paris:annecy
@@ -1559,8 +1558,6 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2018-04,4,2018,National,nancy,paris,321.0,89.0,21.0,232.0,27.73,90.9,nancy:paris
 2018-04,4,2018,National,nantes,strasbourg,55.0,29.0,1.0,26.0,52.73,96.2,nantes:strasbourg
 2018-04,4,2018,National,reims,paris,224.0,54.0,23.0,170.0,24.11,86.5,reims:paris
-2018-04,4,2018,National,marseille-st-charles,tourcoing,25.0,7.0,30.89532777978993,18.0,28.0,-71.6,marseille-st-charles:tourcoing
-2018-04,4,2018,National,rennes,paris,20.0,0.0,30.89532777978993,20.0,0.0,-54.5,rennes:paris
 2018-04,4,2018,National,annecy,paris,191.0,72.0,29.0,119.0,37.7,75.6,annecy:paris
 2018-04,4,2018,National,le-creusot-montceau-montchanin,paris,218.0,44.0,19.0,174.0,20.18,89.1,le-creusot-montceau-montchanin:paris
 2018-04,4,2018,National,montpellier,lyon,308.0,136.0,42.0,172.0,44.16,75.6,montpellier:lyon
@@ -1591,7 +1588,6 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2018-04,4,2018,National,perpignan,paris,186.0,86.0,24.0,100.0,46.24,76.0,perpignan:paris
 2018-04,4,2018,International,barcelona,paris,43.0,18.0,5.0,25.0,41.86,80.0,barcelona:paris
 2018-04,4,2018,International,italie,paris,92.0,39.0,26.0,53.0,42.39,50.9,italie:paris
-2018-04,4,2018,International,marseille-st-charles,madrid,23.0,16.0,30.89532777978993,7.0,69.57,-341.4,marseille-st-charles:madrid
 2018-04,4,2018,International,paris,stuttgart,147.0,15.0,19.0,132.0,10.2,85.6,paris:stuttgart
 2018-04,4,2018,International,paris,lausanne,146.0,47.0,18.0,99.0,32.19,81.8,paris:lausanne
 2018-04,4,2018,National,le-mans,paris,426.0,127.0,103.0,299.0,29.81,65.6,le-mans:paris
@@ -2311,7 +2307,6 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2018-10,10,2018,National,paris,douai,191.0,2.0,35.0,189.0,1.05,81.5,paris:douai
 2018-10,10,2018,National,douai,paris,208.0,2.0,41.0,206.0,0.96,80.1,douai:paris
 2018-10,10,2018,National,marseille-st-charles,lille,169.0,3.0,52.0,166.0,1.78,68.7,marseille-st-charles:lille
-2018-10,10,2018,National,tourcoing,marseille-st-charles,28.0,0.0,30.89532777978993,28.0,0.0,-10.3,tourcoing:marseille-st-charles
 2018-10,10,2018,National,marne-la-vallee,marseille-st-charles,290.0,1.0,49.0,289.0,0.34,83.0,marne-la-vallee:marseille-st-charles
 2018-10,10,2018,National,paris,aix-en-provence,414.0,1.0,64.0,413.0,0.24,84.5,paris:aix-en-provence
 2018-10,10,2018,National,paris,besancon-franche-comte,177.0,2.0,19.0,175.0,1.13,89.1,paris:besancon-franche-comte
@@ -2591,7 +2586,6 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2018-12,12,2018,National,dunkerque,paris,240.0,1.0,20.0,239.0,0.42,91.6,dunkerque:paris
 2018-12,12,2018,National,bordeaux-st-jean,paris,16.0,0.0,3.0,16.0,0.0,81.2,bordeaux-st-jean:paris
 2018-12,12,2018,National,paris,nantes,15.0,0.0,6.0,15.0,0.0,60.0,paris:nantes
-2018-12,12,2018,National,tourcoing,marseille-st-charles,7.0,0.0,30.89532777978993,7.0,0.0,-341.4,tourcoing:marseille-st-charles
 2018-12,12,2018,National,marseille-st-charles,marne-la-vallee,265.0,3.0,36.0,262.0,1.13,86.3,marseille-st-charles:marne-la-vallee
 2018-12,12,2018,National,paris,aix-en-provence,412.0,4.0,37.0,408.0,0.97,90.9,paris:aix-en-provence
 2018-12,12,2018,National,aix-en-provence,paris,385.0,3.0,33.0,382.0,0.78,91.4,aix-en-provence:paris
@@ -3098,7 +3092,6 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2019-04,4,2019,International,paris,italie,64.0,0.0,6.0,64.0,0.0,90.6,paris:italie
 2019-04,4,2019,International,paris,lausanne,138.0,1.0,27.0,137.0,0.72,80.3,paris:lausanne
 2019-04,4,2019,International,barcelona,paris,56.0,0.0,6.0,56.0,0.0,89.3,barcelona:paris
-2019-04,4,2019,International,marseille-st-charles,madrid,1.0,0.0,30.89532777978993,1.0,0.0,-2989.5,marseille-st-charles:madrid
 2019-04,4,2019,International,paris,barcelona,56.0,0.0,8.0,56.0,0.0,85.7,paris:barcelona
 2019-04,4,2019,National,paris,angers-saint-laud,415.0,1.0,65.0,414.0,0.24,84.3,paris:angers-saint-laud
 2019-04,4,2019,National,paris,bordeaux-st-jean,769.0,4.0,57.0,765.0,0.52,92.5,paris:bordeaux-st-jean
@@ -3260,7 +3253,6 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2019-05,5,2019,National,strasbourg,nantes,56.0,0.0,3.0,56.0,0.0,94.6,strasbourg:nantes
 2019-05,5,2019,National,paris,lille,598.0,6.0,97.0,592.0,1.0,83.6,paris:lille
 2019-05,5,2019,National,bordeaux-st-jean,tourcoing,25.0,0.0,2.0,25.0,0.0,92.0,bordeaux-st-jean:tourcoing
-2019-05,5,2019,National,marseille-st-charles,tourcoing,8.0,0.0,30.89532777978993,8.0,0.0,-286.2,marseille-st-charles:tourcoing
 2019-05,5,2019,National,lyon,marne-la-vallee,294.0,56.0,44.0,238.0,19.05,81.5,lyon:marne-la-vallee
 2019-05,5,2019,National,chambery-challes-les-eaux,paris,132.0,3.0,16.0,129.0,2.27,87.6,chambery-challes-les-eaux:paris
 2019-05,5,2019,National,dijon-ville,paris,446.0,0.0,34.0,446.0,0.0,92.4,dijon-ville:paris
@@ -3530,7 +3522,6 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2019-07,7,2019,National,paris,dunkerque,248.0,3.0,32.0,245.0,1.21,86.9,paris:dunkerque
 2019-07,7,2019,National,lille,paris,617.0,66.0,99.0,551.0,10.7,82.0,lille:paris
 2019-07,7,2019,National,lille,lyon,259.0,4.0,47.0,255.0,1.54,81.6,lille:lyon
-2019-07,7,2019,National,tourcoing,bordeaux-st-jean,12.0,0.0,30.89532777978993,12.0,0.0,-157.5,tourcoing:bordeaux-st-jean
 2019-07,7,2019,National,lyon,marne-la-vallee,318.0,66.0,86.0,252.0,20.75,65.9,lyon:marne-la-vallee
 2019-07,7,2019,National,paris,grenoble,164.0,0.0,17.0,164.0,0.0,89.6,paris:grenoble
 2019-07,7,2019,National,paris,macon-loche,213.0,19.0,21.0,194.0,8.92,89.2,paris:macon-loche
@@ -3559,7 +3550,6 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2019-08,8,2019,National,dunkerque,paris,214.0,2.0,15.0,212.0,0.93,92.9,dunkerque:paris
 2019-08,8,2019,National,marseille-st-charles,lille,208.0,26.0,45.0,182.0,12.5,75.3,marseille-st-charles:lille
 2019-08,8,2019,National,lille,marseille-st-charles,194.0,0.0,25.0,194.0,0.0,87.1,lille:marseille-st-charles
-2019-08,8,2019,National,bordeaux-st-jean,tourcoing,5.0,0.0,30.89532777978993,5.0,0.0,-517.9,bordeaux-st-jean:tourcoing
 2019-08,8,2019,National,tourcoing,bordeaux-st-jean,4.0,0.0,1.0,4.0,0.0,75.0,tourcoing:bordeaux-st-jean
 2019-08,8,2019,National,paris,besancon-franche-comte,163.0,0.0,14.0,163.0,0.0,91.4,paris:besancon-franche-comte
 2019-08,8,2019,National,paris,dijon-ville,411.0,0.0,30.0,411.0,0.0,92.7,paris:dijon-ville
@@ -3970,7 +3960,6 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2019-11,11,2019,International,paris,geneve,198.0,2.0,31.0,196.0,1.01,84.2,paris:geneve
 2019-11,11,2019,International,paris,lausanne,156.0,1.0,28.0,155.0,0.64,81.9,paris:lausanne
 2019-11,11,2019,International,lausanne,paris,134.0,1.0,22.0,133.0,0.75,83.5,lausanne:paris
-2019-11,11,2019,International,marseille-st-charles,madrid,7.0,1.0,30.89532777978993,6.0,14.29,-414.9,marseille-st-charles:madrid
 2019-11,11,2019,International,paris,barcelona,25.0,2.0,4.0,23.0,8.0,82.6,paris:barcelona
 2019-11,11,2019,National,paris,angouleme,271.0,8.0,34.0,263.0,2.95,87.1,paris:angouleme
 2019-11,11,2019,National,bordeaux-st-jean,paris,792.0,27.0,163.0,765.0,3.41,78.7,bordeaux-st-jean:paris
@@ -4043,7 +4032,6 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2019-12,12,2019,National,paris,st-malo,26.0,8.0,2.0,18.0,30.77,88.9,paris:st-malo
 2019-12,12,2019,National,st-malo,paris,21.0,4.0,3.0,17.0,19.05,82.4,st-malo:paris
 2019-12,12,2019,National,paris,strasbourg,283.0,38.0,23.0,245.0,13.43,90.6,paris:strasbourg
-2019-12,12,2019,National,strasbourg,nantes,10.0,4.0,30.89532777978993,6.0,40.0,-414.9,strasbourg:nantes
 2019-12,12,2019,National,paris,douai,70.0,19.0,11.0,51.0,27.14,78.4,paris:douai
 2019-12,12,2019,National,marseille-st-charles,marne-la-vallee,80.0,14.0,17.0,66.0,17.5,74.2,marseille-st-charles:marne-la-vallee
 2019-12,12,2019,National,paris,chambery-challes-les-eaux,102.0,16.0,6.0,86.0,15.69,93.0,paris:chambery-challes-les-eaux
@@ -4070,7 +4058,6 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2019-12,12,2019,National,nantes,strasbourg,15.0,4.0,2.0,11.0,26.67,81.8,nantes:strasbourg
 2019-12,12,2019,National,marseille-st-charles,lille,58.0,12.0,17.0,46.0,20.69,63.0,marseille-st-charles:lille
 2019-12,12,2019,National,lille,marseille-st-charles,74.0,15.0,4.0,59.0,20.27,93.2,lille:marseille-st-charles
-2019-12,12,2019,National,tourcoing,bordeaux-st-jean,8.0,1.0,30.89532777978993,7.0,12.5,-341.4,tourcoing:bordeaux-st-jean
 2019-12,12,2019,National,marne-la-vallee,lyon,101.0,29.0,16.0,72.0,28.71,77.8,marne-la-vallee:lyon
 2019-12,12,2019,National,marne-la-vallee,marseille-st-charles,93.0,17.0,7.0,76.0,18.28,90.8,marne-la-vallee:marseille-st-charles
 2019-12,12,2019,National,paris,aix-en-provence,233.0,16.0,11.0,217.0,6.87,94.9,paris:aix-en-provence
@@ -4430,7 +4417,6 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2020-03,3,2020,National,marseille-st-charles,lyon,242.0,21.0,14.0,221.0,8.68,93.7,marseille-st-charles:lyon
 2020-03,3,2020,National,lyon,montpellier,116.0,10.0,19.0,106.0,8.62,82.1,lyon:montpellier
 2020-03,3,2020,International,stuttgart,paris,68.0,7.0,17.0,61.0,10.29,72.1,stuttgart:paris
-2020-03,3,2020,International,marseille-st-charles,madrid,11.0,1.0,30.89532777978993,10.0,9.09,-209.0,marseille-st-charles:madrid
 2020-03,3,2020,International,paris,barcelona,36.0,2.0,2.0,34.0,5.56,94.1,paris:barcelona
 2020-03,3,2020,National,angouleme,paris,182.0,14.0,28.0,168.0,7.69,83.3,angouleme:paris
 2020-03,3,2020,National,paris,la-rochelle-ville,135.0,15.0,10.0,120.0,11.11,91.7,paris:la-rochelle-ville
@@ -4448,7 +4434,6 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2020-03,3,2020,National,paris,arras,187.0,39.0,19.0,148.0,20.86,87.2,paris:arras
 2020-03,3,2020,National,paris,douai,84.0,12.0,17.0,72.0,14.29,76.4,paris:douai
 2020-03,3,2020,National,paris,dunkerque,101.0,14.0,5.0,87.0,13.86,94.3,paris:dunkerque
-2020-03,3,2020,National,marseille-st-charles,tourcoing,17.0,2.0,30.89532777978993,15.0,11.76,-106.0,marseille-st-charles:tourcoing
 2020-03,3,2020,National,tourcoing,bordeaux-st-jean,14.0,1.0,3.0,13.0,7.14,76.9,tourcoing:bordeaux-st-jean
 2020-03,3,2020,National,aix-en-provence,paris,241.0,15.0,16.0,226.0,6.22,92.9,aix-en-provence:paris
 2020-03,3,2020,National,bellegarde-(ain),paris,164.0,15.0,34.0,149.0,9.15,77.2,bellegarde-(ain):paris
@@ -4550,8 +4535,6 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2020-04,4,2020,National,quimper,paris,28.0,14.0,3.0,14.0,50.0,78.6,quimper:paris
 2020-04,4,2020,National,paris,st-pierre-des-corps,37.0,30.0,6.0,7.0,81.08,14.3,paris:st-pierre-des-corps
 2020-04,4,2020,National,paris,toulouse,29.0,9.0,8.0,20.0,31.03,60.0,paris:toulouse
-2020-04,4,2020,National,paris,nancy,49.0,22.0,30.89532777978993,27.0,44.9,-14.4,paris:nancy
-2020-04,4,2020,National,reims,paris,24.0,20.0,30.89532777978993,4.0,83.33,-672.4,reims:paris
 2020-04,4,2020,National,paris,strasbourg,40.0,35.0,3.0,5.0,87.5,40.0,paris:strasbourg
 2020-04,4,2020,National,paris,arras,86.0,40.0,9.0,46.0,46.51,80.4,paris:arras
 2020-04,4,2020,National,lyon,lille,43.0,16.0,1.0,27.0,37.21,96.3,lyon:lille
@@ -4559,8 +4542,6 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2020-04,4,2020,National,paris,le-creusot-montceau-montchanin,42.0,8.0,2.0,34.0,19.05,94.1,paris:le-creusot-montceau-montchanin
 2020-04,4,2020,National,paris,montpellier,30.0,11.0,1.0,19.0,36.67,94.7,paris:montpellier
 2020-04,4,2020,National,montpellier,paris,34.0,13.0,4.0,21.0,38.24,81.0,montpellier:paris
-2020-04,4,2020,National,paris,valence-alixan,34.0,16.0,30.89532777978993,18.0,47.06,-71.6,paris:valence-alixan
-2020-04,4,2020,International,paris,stuttgart,10.0,6.0,30.89532777978993,4.0,60.0,-672.4,paris:stuttgart
 2020-04,4,2020,International,stuttgart,paris,8.0,7.0,1.0,1.0,87.5,0.0,stuttgart:paris
 2020-04,4,2020,International,paris,zurich,24.0,7.0,6.0,17.0,29.17,64.7,paris:zurich
 2020-04,4,2020,National,angers-saint-laud,paris,81.0,28.0,26.0,53.0,34.57,50.9,angers-saint-laud:paris
@@ -4577,24 +4558,19 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2020-04,4,2020,National,macon-loche,paris,41.0,16.0,5.0,25.0,39.02,80.0,macon-loche:paris
 2020-04,4,2020,National,marseille-st-charles,paris,50.0,22.0,2.0,28.0,44.0,92.9,marseille-st-charles:paris
 2020-04,4,2020,National,lyon,marseille-st-charles,40.0,24.0,1.0,16.0,60.0,93.8,lyon:marseille-st-charles
-2020-04,4,2020,National,marseille-st-charles,lyon,39.0,21.0,30.89532777978993,18.0,53.85,-71.6,marseille-st-charles:lyon
 2020-04,4,2020,National,paris,lille,92.0,44.0,5.0,48.0,47.83,89.6,paris:lille
 2020-04,4,2020,National,besancon-franche-comte,paris,37.0,10.0,8.0,27.0,27.03,70.4,besancon-franche-comte:paris
 2020-04,4,2020,National,dijon-ville,paris,50.0,22.0,9.0,28.0,44.0,67.9,dijon-ville:paris
-2020-04,4,2020,National,paris,marseille-st-charles,41.0,23.0,30.89532777978993,18.0,56.1,-71.6,paris:marseille-st-charles
 2020-04,4,2020,National,mulhouse-ville,paris,39.0,12.0,6.0,27.0,30.77,77.8,mulhouse-ville:paris
 2020-04,4,2020,National,nimes,paris,34.0,13.0,9.0,21.0,38.24,57.1,nimes:paris
 2020-04,4,2020,National,valence-alixan,paris,41.0,19.0,8.0,22.0,46.34,63.6,valence-alixan:paris
-2020-04,4,2020,National,montpellier,lyon,28.0,10.0,30.89532777978993,18.0,35.71,-71.6,montpellier:lyon
 2020-04,4,2020,National,paris,angouleme,31.0,16.0,2.0,15.0,51.61,86.7,paris:angouleme
 2020-04,4,2020,National,laval,paris,31.0,15.0,9.0,16.0,48.39,43.8,laval:paris
 2020-04,4,2020,National,paris,nantes,67.0,34.0,14.0,33.0,50.75,57.6,paris:nantes
 2020-04,4,2020,National,nantes,paris,79.0,34.0,22.0,45.0,43.04,51.1,nantes:paris
-2020-04,4,2020,National,paris,quimper,35.0,17.0,30.89532777978993,18.0,48.57,-71.6,paris:quimper
 2020-04,4,2020,National,paris,rennes,108.0,59.0,23.0,49.0,54.63,53.1,paris:rennes
 2020-04,4,2020,National,rennes,paris,89.0,49.0,19.0,40.0,55.06,52.5,rennes:paris
 2020-04,4,2020,National,toulouse,paris,35.0,9.0,16.0,26.0,25.71,38.5,toulouse:paris
-2020-04,4,2020,National,paris,metz,46.0,23.0,30.89532777978993,23.0,50.0,-34.3,paris:metz
 2020-04,4,2020,National,nancy,paris,27.0,22.0,1.0,5.0,81.48,80.0,nancy:paris
 2020-04,4,2020,National,strasbourg,paris,41.0,38.0,2.0,3.0,92.68,33.3,strasbourg:paris
 2020-04,4,2020,National,lille,paris,84.0,41.0,8.0,43.0,48.81,81.4,lille:paris
@@ -4642,8 +4618,6 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2020-05,5,2020,National,nimes,paris,128.0,15.0,11.0,113.0,11.72,90.3,nimes:paris
 2020-05,5,2020,National,paris,valence-alixan,120.0,19.0,4.0,101.0,15.83,96.0,paris:valence-alixan
 2020-05,5,2020,National,lyon,marseille-st-charles,110.0,23.0,7.0,87.0,20.91,92.0,lyon:marseille-st-charles
-2020-05,5,2020,International,paris,stuttgart,6.0,5.0,30.89532777978993,1.0,83.33,-2989.5,paris:stuttgart
-2020-05,5,2020,International,stuttgart,paris,8.0,6.0,30.89532777978993,2.0,75.0,-1444.8,stuttgart:paris
 2020-05,5,2020,International,italie,paris,25.0,4.0,1.0,21.0,16.0,95.2,italie:paris
 2020-05,5,2020,International,lausanne,paris,27.0,9.0,2.0,18.0,33.33,88.9,lausanne:paris
 2020-05,5,2020,National,angouleme,paris,86.0,13.0,13.0,73.0,15.12,82.2,angouleme:paris
@@ -4663,13 +4637,11 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2020-05,5,2020,National,dunkerque,paris,70.0,15.0,2.0,55.0,21.43,96.4,dunkerque:paris
 2020-05,5,2020,National,marseille-st-charles,lille,75.0,11.0,4.0,64.0,14.67,93.8,marseille-st-charles:lille
 2020-05,5,2020,National,marne-la-vallee,marseille-st-charles,76.0,14.0,1.0,62.0,18.42,98.4,marne-la-vallee:marseille-st-charles
-2020-05,5,2020,National,annecy,paris,17.0,7.0,30.89532777978993,10.0,41.18,-209.0,annecy:paris
 2020-05,5,2020,National,chambery-challes-les-eaux,paris,36.0,9.0,1.0,27.0,25.0,96.3,chambery-challes-les-eaux:paris
 2020-05,5,2020,National,macon-loche,paris,107.0,16.0,3.0,91.0,14.95,96.7,macon-loche:paris
 2020-05,5,2020,National,nice-ville,paris,60.0,10.0,2.0,50.0,16.67,96.0,nice-ville:paris
 2020-05,5,2020,National,perpignan,paris,32.0,14.0,1.0,18.0,43.75,94.4,perpignan:paris
 2020-05,5,2020,National,toulon,paris,64.0,12.0,2.0,52.0,18.75,96.2,toulon:paris
-2020-05,5,2020,International,francfort,paris,29.0,9.0,30.89532777978993,20.0,31.03,-54.5,francfort:paris
 2020-05,5,2020,International,geneve,paris,43.0,9.0,2.0,34.0,20.93,94.1,geneve:paris
 2020-05,5,2020,National,angers-saint-laud,paris,234.0,29.0,34.0,205.0,12.39,83.4,angers-saint-laud:paris
 2020-05,5,2020,National,paris,bordeaux-st-jean,325.0,55.0,36.0,270.0,16.92,86.7,paris:bordeaux-st-jean
@@ -4684,7 +4656,6 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2020-05,5,2020,National,reims,paris,98.0,22.0,11.0,76.0,22.45,85.5,reims:paris
 2020-05,5,2020,National,lille,paris,327.0,41.0,77.0,286.0,12.54,73.1,lille:paris
 2020-05,5,2020,National,lyon,marne-la-vallee,83.0,19.0,5.0,64.0,22.89,92.2,lyon:marne-la-vallee
-2020-05,5,2020,National,paris,annecy,31.0,7.0,30.89532777978993,24.0,22.58,-28.7,paris:annecy
 2020-05,5,2020,National,paris,bellegarde-(ain),46.0,11.0,2.0,35.0,23.91,94.3,paris:bellegarde-(ain)
 2020-05,5,2020,National,bellegarde-(ain),paris,44.0,10.0,3.0,34.0,22.73,91.2,bellegarde-(ain):paris
 2020-05,5,2020,National,paris,besancon-franche-comte,78.0,11.0,7.0,67.0,14.1,89.6,paris:besancon-franche-comte
@@ -4692,8 +4663,6 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2020-05,5,2020,National,paris,marseille-st-charles,227.0,28.0,10.0,199.0,12.33,95.0,paris:marseille-st-charles
 2020-05,5,2020,International,paris,francfort,27.0,7.0,5.0,20.0,25.93,75.0,paris:francfort
 2020-05,5,2020,International,paris,geneve,44.0,9.0,2.0,35.0,20.45,94.3,paris:geneve
-2020-05,5,2020,International,paris,zurich,27.0,7.0,30.89532777978993,20.0,25.93,-54.5,paris:zurich
-2020-05,5,2020,International,zurich,paris,27.0,7.0,30.89532777978993,20.0,25.93,-54.5,zurich:paris
 2020-05,5,2020,International,barcelona,paris,37.0,3.0,4.0,34.0,8.11,88.2,barcelona:paris
 2020-05,5,2020,National,paris,angers-saint-laud,195.0,25.0,27.0,170.0,12.82,84.1,paris:angers-saint-laud
 2020-05,5,2020,National,paris,la-rochelle-ville,107.0,14.0,9.0,93.0,13.08,90.3,paris:la-rochelle-ville
@@ -4748,7 +4717,6 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2020-06,6,2020,National,rennes,lyon,62.0,3.0,5.0,59.0,4.84,91.5,rennes:lyon
 2020-06,6,2020,National,paris,strasbourg,283.0,22.0,12.0,261.0,7.77,95.4,paris:strasbourg
 2020-06,6,2020,National,strasbourg,nantes,24.0,2.0,1.0,22.0,8.33,95.5,strasbourg:nantes
-2020-06,6,2020,National,nantes,strasbourg,26.0,2.0,30.89532777978993,24.0,7.69,-28.7,nantes:strasbourg
 2020-06,6,2020,National,arras,paris,175.0,25.0,27.0,150.0,14.29,82.0,arras:paris
 2020-06,6,2020,National,lille,lyon,220.0,16.0,32.0,204.0,7.27,84.3,lille:lyon
 2020-06,6,2020,National,marseille-st-charles,tourcoing,23.0,1.0,1.0,22.0,4.35,95.5,marseille-st-charles:tourcoing
@@ -4825,7 +4793,6 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2020-06,6,2020,National,strasbourg,paris,265.0,19.0,18.0,246.0,7.17,92.7,strasbourg:paris
 2020-06,6,2020,National,lille,paris,402.0,23.0,58.0,379.0,5.72,84.7,lille:paris
 2020-06,6,2020,National,lille,marseille-st-charles,169.0,10.0,21.0,159.0,5.92,86.8,lille:marseille-st-charles
-2020-06,6,2020,National,bordeaux-st-jean,tourcoing,8.0,1.0,30.89532777978993,7.0,12.5,-341.4,bordeaux-st-jean:tourcoing
 2020-06,6,2020,National,lyon,marne-la-vallee,218.0,17.0,35.0,201.0,7.8,82.6,lyon:marne-la-vallee
 2020-06,6,2020,National,marne-la-vallee,marseille-st-charles,191.0,11.0,26.0,180.0,5.76,85.6,marne-la-vallee:marseille-st-charles
 2020-06,6,2020,National,paris,aix-en-provence,286.0,10.0,24.0,276.0,3.5,91.3,paris:aix-en-provence
@@ -5358,7 +5325,6 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2020-11,11,2020,National,paris,toulon,56.0,12.0,8.0,44.0,21.43,81.8,paris:toulon
 2020-11,11,2020,International,francfort,paris,74.0,7.0,7.0,67.0,9.46,89.6,francfort:paris
 2020-11,11,2020,International,paris,stuttgart,34.0,2.0,5.0,32.0,5.88,84.4,paris:stuttgart
-2020-11,11,2020,International,stuttgart,paris,41.0,3.0,30.89532777978993,38.0,7.32,18.7,stuttgart:paris
 2020-11,11,2020,International,italie,paris,28.0,1.0,6.0,27.0,3.57,77.8,italie:paris
 2020-11,11,2020,International,paris,zurich,31.0,4.0,6.0,27.0,12.9,77.8,paris:zurich
 2020-11,11,2020,International,zurich,paris,40.0,5.0,3.0,35.0,12.5,91.4,zurich:paris
@@ -5370,12 +5336,10 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2020-11,11,2020,National,st-malo,paris,34.0,4.0,7.0,30.0,11.76,76.7,st-malo:paris
 2020-11,11,2020,National,rennes,lyon,33.0,4.0,1.0,29.0,12.12,96.6,rennes:lyon
 2020-11,11,2020,National,paris,strasbourg,127.0,20.0,6.0,107.0,15.75,94.4,paris:strasbourg
-2020-11,11,2020,National,nantes,strasbourg,10.0,2.0,30.89532777978993,8.0,20.0,-286.2,nantes:strasbourg
 2020-11,11,2020,National,paris,dunkerque,74.0,5.0,3.0,69.0,6.76,95.7,paris:dunkerque
 2020-11,11,2020,National,dunkerque,paris,89.0,7.0,6.0,82.0,7.87,92.7,dunkerque:paris
 2020-11,11,2020,National,lyon,lille,52.0,13.0,5.0,39.0,25.0,87.2,lyon:lille
 2020-11,11,2020,National,marseille-st-charles,lille,24.0,10.0,4.0,14.0,41.67,71.4,marseille-st-charles:lille
-2020-11,11,2020,National,bordeaux-st-jean,tourcoing,5.0,1.0,30.89532777978993,4.0,20.0,-672.4,bordeaux-st-jean:tourcoing
 2020-11,11,2020,National,marne-la-vallee,lyon,58.0,21.0,7.0,37.0,36.21,81.1,marne-la-vallee:lyon
 2020-11,11,2020,National,paris,aix-en-provence,102.0,12.0,7.0,90.0,11.76,92.2,paris:aix-en-provence
 2020-11,11,2020,National,annecy,paris,45.0,6.0,1.0,39.0,13.33,97.4,annecy:paris
@@ -5393,7 +5357,6 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2020-11,11,2020,International,paris,francfort,62.0,4.0,6.0,58.0,6.45,89.7,paris:francfort
 2020-11,11,2020,International,geneve,paris,56.0,3.0,2.0,53.0,5.36,96.2,geneve:paris
 2020-11,11,2020,International,barcelona,paris,25.0,0.0,3.0,25.0,0.0,88.0,barcelona:paris
-2020-11,11,2020,International,paris,barcelona,26.0,0.0,30.89532777978993,26.0,0.0,-18.8,paris:barcelona
 2020-11,11,2020,National,paris,bordeaux-st-jean,255.0,42.0,25.0,213.0,16.47,88.3,paris:bordeaux-st-jean
 2020-11,11,2020,National,paris,laval,98.0,11.0,13.0,87.0,11.22,85.1,paris:laval
 2020-11,11,2020,National,nantes,paris,144.0,32.0,12.0,112.0,22.22,89.3,nantes:paris
@@ -5412,10 +5375,8 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2020-11,11,2020,National,mulhouse-ville,paris,79.0,11.0,8.0,68.0,13.92,88.2,mulhouse-ville:paris
 2020-11,11,2020,National,paris,perpignan,40.0,10.0,1.0,30.0,25.0,96.7,paris:perpignan
 2020-11,11,2020,National,paris,saint-etienne-chateaucreux,8.0,4.0,2.0,4.0,50.0,50.0,paris:saint-etienne-chateaucreux
-2020-11,11,2020,National,saint-etienne-chateaucreux,paris,10.0,4.0,30.89532777978993,6.0,40.0,-414.9,saint-etienne-chateaucreux:paris
 2020-11,11,2020,National,toulon,paris,64.0,10.0,7.0,54.0,15.62,87.0,toulon:paris
 2020-11,11,2020,National,lyon,marseille-st-charles,60.0,20.0,12.0,40.0,33.33,70.0,lyon:marseille-st-charles
-2020-11,11,2020,International,paris,lausanne,10.0,5.0,30.89532777978993,5.0,50.0,-517.9,paris:lausanne
 2020-11,11,2020,National,paris,angers-saint-laud,137.0,28.0,16.0,109.0,20.44,85.3,paris:angers-saint-laud
 2020-11,11,2020,National,paris,la-rochelle-ville,65.0,13.0,3.0,52.0,20.0,94.2,paris:la-rochelle-ville
 2020-11,11,2020,National,paris,nantes,146.0,33.0,15.0,113.0,22.6,86.7,paris:nantes
@@ -5424,11 +5385,9 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2020-11,11,2020,National,paris,tours,53.0,8.0,4.0,45.0,15.09,91.1,paris:tours
 2020-11,11,2020,National,vannes,paris,65.0,13.0,10.0,52.0,20.0,80.8,vannes:paris
 2020-11,11,2020,National,paris,metz,63.0,16.0,4.0,47.0,25.4,91.5,paris:metz
-2020-11,11,2020,National,strasbourg,nantes,8.0,2.0,30.89532777978993,6.0,25.0,-414.9,strasbourg:nantes
 2020-11,11,2020,National,paris,arras,121.0,19.0,9.0,102.0,15.7,91.2,paris:arras
 2020-11,11,2020,National,arras,paris,161.0,21.0,26.0,140.0,13.04,81.4,arras:paris
 2020-11,11,2020,National,paris,douai,57.0,6.0,8.0,51.0,10.53,84.3,paris:douai
-2020-11,11,2020,National,tourcoing,bordeaux-st-jean,2.0,1.0,30.89532777978993,1.0,50.0,-2989.5,tourcoing:bordeaux-st-jean
 2020-11,11,2020,National,marne-la-vallee,marseille-st-charles,28.0,14.0,6.0,14.0,50.0,57.1,marne-la-vallee:marseille-st-charles
 2020-11,11,2020,National,bellegarde-(ain),paris,52.0,5.0,2.0,47.0,9.62,95.7,bellegarde-(ain):paris
 2020-11,11,2020,National,paris,besancon-franche-comte,41.0,8.0,2.0,33.0,19.51,93.9,paris:besancon-franche-comte
@@ -5520,7 +5479,6 @@ date,month,year,axis,origin,destination,number_of_trains_scheduled,number_of_tra
 2020-12,12,2020,National,paris,metz,240.0,16.0,14.0,224.0,6.67,93.8,paris:metz
 2020-12,12,2020,National,metz,paris,226.0,14.0,19.0,212.0,6.19,91.0,metz:paris
 2020-12,12,2020,National,paris,reims,169.0,12.0,9.0,157.0,7.1,94.3,paris:reims
-2020-12,12,2020,National,tourcoing,bordeaux-st-jean,23.0,2.0,30.89532777978993,21.0,8.7,-47.1,tourcoing:bordeaux-st-jean
 2020-12,12,2020,National,bellegarde-(ain),paris,136.0,6.0,4.0,130.0,4.41,96.9,bellegarde-(ain):paris
 2020-12,12,2020,National,besancon-franche-comte,paris,126.0,9.0,3.0,117.0,7.14,97.4,besancon-franche-comte:paris
 2020-12,12,2020,National,paris,chambery-challes-les-eaux,147.0,9.0,10.0,138.0,6.12,92.8,paris:chambery-challes-les-eaux
